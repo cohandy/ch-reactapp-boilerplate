@@ -5,7 +5,8 @@
   "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx nodemon --ignore dist server/server.js"
+    "start": "npx nodemon --ignore dist server/server.js",
+    "prod": "npx webpack -p"
   },
   "author": "",
   "license": "ISC",
