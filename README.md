@@ -2,5 +2,5 @@ React app boilerplate, set up with react router 4 and MobX served by Express. Go
 
 ## Getting started
 
-#. Run `npm install`
-#. Run `npm start` to start the server. Nodemon will restart the server on any file change along with webpack compiling.
+1. Run `npm install`
+2. Run `npm start` to start the server. Nodemon will restart the server on any file change along with webpack compiling.
